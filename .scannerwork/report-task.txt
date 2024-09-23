@@ -1,0 +1,6 @@
+projectKey=boilerplate_clone
+serverUrl=http://localhost:9099
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9099/dashboard?id=boilerplate_clone
+ceTaskId=8870d036-0f3a-4f0e-b9b5-a801e346b2be
+ceTaskUrl=http://localhost:9099/api/ce/task?id=8870d036-0f3a-4f0e-b9b5-a801e346b2be
